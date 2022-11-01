@@ -1,4 +1,4 @@
-# matrix-modification!
+# matrix-modification
 
 ## Matrix-modification in progress 🚧
 
